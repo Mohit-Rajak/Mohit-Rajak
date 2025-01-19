@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mohit Rajak</h1>
-<h3 align="center">Full Stack Developer <br> DSA with Java</h3>
+<h1 align="center">Hi👋, I'm Mohit Rajak</h1>
+<h3 align="center">Full Stack Developer <br>
+    Web Developer <br>
+    DSA with Java</h3>
 
 <img align="right" alt="coding" width="350" src="https://bayanbox.ir/view/4124439541593829365/webdevelopment10.gif">
 
@@ -15,7 +17,7 @@
 
 ## 👀 **Professional Summary**
 
-_"Enthusiastic and motivated Full-Stack Developer with a strong foundation in front-end and back-end technologies. Proficient in JavaScript, HTML, CSS, and frameworks like React and Node.js. Eager to apply my knowledge of databases (SQL/NoSQL) and version control (Git) to build efficient, scalable web applications. Passionate about learning new technologies, solving problems, and contributing to open-source projects. Always striving to improve and grow as a developer in a collaborative and innovative environment."._
+_"Enthusiastic and motivated Full-Stack Developer with a strong foundation in front-end and back-end technologies. Proficient in JavaScript, HTML, CSS, and frameworks like React and Node.js. Eager to apply my knowledge of databases (SQL/NoSQL) and version control (Git) to build efficient, scalable web applications. Passionate about learning new technologies, solving problems, and contributing to open-source projects."._
 
 ---
 
