@@ -28,8 +28,8 @@ _"Enthusiastic and motivated Full-Stack Developer with a strong foundation in fr
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@xyz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/) -->
 [<img src="https://img.shields.io/badge/-Mohit-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me" />](https://www.linkedin.com/in/mohit-rajak/)
 [<img src="https://img.shields.io/badge/-contact.mohitrajak022004@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Message me" />](mailto:contact.mohitrajak022004@gmail.com)
-[<img src="https://img.shields.io/badge/-@akashdeep023__-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />](https://www.instagram.com/mohitrajakofficial/)
-[<img src="https://img.shields.io/github/followers/akashdeep023?label=akashdeep023&style=social" height="32" title="Follow me" />](https://github.com/Mohit-Rajak)
+[<img src="https://img.shields.io/badge/-@mohitrajakofficial__-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />](https://www.instagram.com/mohitrajakofficial/)
+[<img src="https://img.shields.io/github/followers/Mohit-Rajak?label=akashdeep023&style=social" height="32" title="Follow me" />](https://github.com/Mohit-Rajak)
 
 </p>
 
