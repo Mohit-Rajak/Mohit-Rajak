@@ -25,11 +25,11 @@ _"Enthusiastic and motivated Full-Stack Developer with a strong foundation in fr
 
 <p align="center">
   
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@xyz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/) -->
+
 [<img src="https://img.shields.io/badge/-Mohit-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me" />](https://www.linkedin.com/in/mohit-rajak/)
 [<img src="https://img.shields.io/badge/-contact.mohitrajak022004@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Message me" />](mailto:contact.mohitrajak022004@gmail.com)
 [<img src="https://img.shields.io/badge/-@mohitrajakofficial__-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />](https://www.instagram.com/mohitrajakofficial/)
-[<img src="https://img.shields.io/github/followers/Mohit-Rajak?label=akashdeep023&style=social" height="32" title="Follow me" />](https://github.com/Mohit-Rajak)
+[<img src="https://img.shields.io/github/followers/Mohit-Rajak?label=Mohit-Rajak&style=social" height="32" title="Follow me" />](https://github.com/Mohit-Rajak)
 
 </p>
 
@@ -54,7 +54,6 @@ _"Enthusiastic and motivated Full-Stack Developer with a strong foundation in fr
     <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/material-ui%20-%23F05033.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
     <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
     <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/express.js%20-light.svg?&style=for-the-badge&logo=express&logoColor=white"/>
     <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -67,14 +66,5 @@ _"Enthusiastic and motivated Full-Stack Developer with a strong foundation in fr
     <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/vercel-blue.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
     <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/render-yellow.svg?style=for-the-badge&logo=render&logoColor=white"/>
     <img alt="Badge" style="float: left; margin-right: 10px;" src="http://img.shields.io/badge/-java-yellow?style=for-the-badge&logo=java&logoColor=white"/>
-    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/c++%20-%2314054C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=blue"/>
 </a>
 
-## 🏆 **GitHub Trophies**
-
-<p align="center">
-
-[![](https://github-profile-trophy.vercel.app/?username=mohit-rajak&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/Mohit-Rajak)
-
-</p>
