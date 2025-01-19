@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohit Rajak</h1>
 <h3 align="center">Full Stack Developer <br> DSA with Java</h3>
 
-<img align="right" alt="coding" width="400" src="https://bayanbox.ir/view/4124439541593829365/webdevelopment10.gif">
+<img align="right" alt="coding" width="350" src="https://bayanbox.ir/view/4124439541593829365/webdevelopment10.gif">
 
-<a style="" href="https://vercel.com/mohit-rajak">
-  
-</a>
+<a style="" href="https://vercel.com/mohit-rajak"></a>
 
 <p align="center">
     <b style="color: blue;  ">Visitor count</b>
