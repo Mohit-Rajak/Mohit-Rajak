@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Mohit Rajak</h1>
 <h3 align="center">Full Stack Developer <br>
-    Web Developer <br>
+    <br>
     DSA with Java</h3>
 
 <img align="right" alt="coding" width="350" src="https://bayanbox.ir/view/4124439541593829365/webdevelopment10.gif">
