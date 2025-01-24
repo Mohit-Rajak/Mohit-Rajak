@@ -1,6 +1,5 @@
 <h1 align="center">Hi👋, I'm Mohit Rajak</h1>
 <h3 align="center">Full Stack Developer <br>
-    <br>
     DSA with Java</h3>
 
 <img align="right" alt="coding" width="350" src="https://bayanbox.ir/view/4124439541593829365/webdevelopment10.gif">
@@ -8,7 +7,7 @@
 <a style="" href="https://vercel.com/mohit-rajak"></a>
 
 <p align="center">
-    <b style="color: blue;  ">Visitor count</b>
+    <b style="color: blue; margin-right: 20px">Visitor count</b>
     <br>
     <a style="" href="https://github.com/Mohit-Rajak">
         <img src="https://profile-counter.glitch.me/Mohit-Rajak/count.svg" />
