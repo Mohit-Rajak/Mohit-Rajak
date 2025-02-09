@@ -1,8 +1,6 @@
 <h1 align="center">Hi👋, I'm Mohit Rajak</h1>
-<h3 align="center">Full Stack Developer <br>
-    DSA with Java</h3>
+<h3 align="center">Full Stack Web Developer <br></h3>
 
-<img align="right" alt="coding" width="350" src="https://th.bing.com/th/id/OIP.BU7f02LeQeELztqxa8eCmwHaEw?rs=1&pid=ImgDetMain">
 
 <a style="" href="https://vercel.com/mohit-rajak"></a>
 
