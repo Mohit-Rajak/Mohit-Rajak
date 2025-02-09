@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer <br>
     DSA with Java</h3>
 
-<img align="right" alt="coding" width="350" src="https://bayanbox.ir/view/4124439541593829365/webdevelopment10.gif">
+<img align="right" alt="coding" width="300" src="https://www.pskitservices.com/wp-content/uploads/2020/10/homepage-banner-animated-2.gif">
 
 <a style="" href="https://vercel.com/mohit-rajak"></a>
 
