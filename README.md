@@ -1,11 +1,11 @@
-<h1 align="center">Hi👋, I'm Mohit Rajak</h1>
-<h3 align="center">Full Stack Web Developer <br></h3>
+<h1 align="center">Hello👋, I'm Mohit Rajak</h1>
+<h3 align="center">Mern Stack Web Developer & Java with DSA <br></h3>
 
 
 <a style="" href="https://vercel.com/mohit-rajak"></a>
 
 <p align="center">
-    <b style="color: blue; margin-right: 20px">Visitor count</b>
+    <b style="color: white; margin-right: 20px padding:7px">Visitor count</b>
     <br>
     <a style="" href="https://github.com/Mohit-Rajak">
         <img src="https://profile-counter.glitch.me/Mohit-Rajak/count.svg" />
