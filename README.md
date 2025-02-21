@@ -30,20 +30,6 @@ _"Enthusiastic and motivated Full-Stack Developer with a strong foundation in fr
 
 </p>
 
-## 💻 **Some Stats**
-
-<div align="left" style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
-    <a style="" href="https://github.com/Mohit-Rajak">
-        <img height=350 src="https://github-readme-stats.vercel.app/api?username=mohit-rajak&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
-    </a>
-    <a style="" href="https://github.com/Mohit-Rajak">
-        <img height=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdeep023&theme=tokyonight&hide_border=true&layout=donut-vertical"/>
-    </a>
-</div>
-<a style="" href="https://github.com/Mohit-Rajak">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohit-rajak&theme=tokyonight"/>
-</a>
-
 ## 👨‍💻 **Languages and Tools**
 
 <a href="https://github.com/Mohit-Rajak" align="center">     
