@@ -1,53 +1,85 @@
-<h1 align="center">Hello👋, I'm Mohit Rajak</h1>
-<h3 align="center">Mern Stack Web Developer & Java with DSA <br></h3>
+<h1 align="center">Hello 👋, I'm Mohit Rajak</h1>
+<h3 align="center">MERN Stack Developer | Java & DSA Enthusiast</h3>
 
-
-<a style="" href="https://vercel.com/mohit-rajak"></a>
-
-<p align="center">
-    <b style="color: white; margin-right: 20px padding:7px">Visitor count</b>
+<p align="center" style="margin: 20px 20; padding: 10px;">
+    <b>Visitor Count:</b>
     <br>
-    <a style="" href="https://github.com/Mohit-Rajak">
-        <img src="https://profile-counter.glitch.me/Mohit-Rajak/count.svg" />
-    </a>
+    <img src="https://profile-counter.glitch.me/Mohit-Rajak/count.svg"/>
 </p>
+
+---
 
 ## 👀 **Professional Summary**
 
-_"Enthusiastic and motivated Full-Stack Developer with a strong foundation in front-end and back-end technologies. Proficient in JavaScript, HTML, CSS, and frameworks like React and Node.js. Eager to apply my knowledge of databases (SQL/NoSQL) and version control (Git) to build efficient, scalable web applications. Passionate about learning new technologies, solving problems, and contributing to open-source projects."._
+🚀 **Passionate Full-Stack Developer** with expertise in **MERN Stack** and **Java with DSA**. Skilled in designing and developing **efficient, scalable, and user-friendly** web applications. Proficient in **JavaScript, React.js, Node.js, MongoDB, and Express.js**, with hands-on experience in **database management (SQL/NoSQL)** and **version control (Git/GitHub)**. Enthusiastic about learning cutting-edge technologies and contributing to **open-source projects**.
+
+---
+
+## 🌐 **Portfolio & Profiles**
+
+- 🔗 **Portfolio:** [Mohit Rajak's Portfolio](https://my-personal-portfolio-wheat.vercel.app/)
+- 🏆 **GitHub:** [github.com/Mohit-Rajak](https://github.com/Mohit-Rajak)
+
+---
+
+## 📊 **GitHub Stats**
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mohit-Rajak&show_icons=true&theme=radical" width="400px" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-Rajak&theme=radical" width="400px" alt="GitHub Streak">
+</p>
 
 ---
 
 ## 💬 **Let's Connect**
 
 <p align="center">
-  
-
-[<img src="https://img.shields.io/badge/-Mohit-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Follow me" />](https://www.linkedin.com/in/mohit-rajak/)
-[<img src="https://img.shields.io/badge/-mohitrajak022004@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Message me" />](mailto:contact.mohitrajak022004@gmail.com)
-[<img src="https://img.shields.io/badge/-@mohitrajakofficial__-e4405f?style=for-the-badge&labelColor=f94877&logo=instagram&logoColor=white" height="30" title="Follow me" />](https://www.instagram.com/mohitrajakofficial/)
-[<img src="https://img.shields.io/github/followers/Mohit-Rajak?label=Mohit-Rajak&style=social" height="32" title="Follow me" />](https://github.com/Mohit-Rajak)
-
+  <a href="https://www.linkedin.com/in/mohit-rajak/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" title="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:contact.mohitrajak022004@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Email me" />
+  </a>
+  <a href="https://www.instagram.com/mohitrajakofficial/">
+    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" height="30" title="Follow on Instagram" />
+  </a>
+  <a href="https://github.com/Mohit-Rajak">
+    <img src="https://img.shields.io/github/followers/Mohit-Rajak?label=GitHub&style=social" height="30" title="Follow on GitHub" />
+  </a>
 </p>
 
-## 👨‍💻 **Languages and Tools**
+---
 
-<a href="https://github.com/Mohit-Rajak" align="center">     
-    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/express.js%20-light.svg?&style=for-the-badge&logo=express&logoColor=white"/>
-    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/tailwind-%2300ADD8.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-    <img alt="Badge" style="float: left; margin-right: 10px;" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/mysql%20-grey.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/github%20-white.svg?&style=for-the-badge&logo=git-hub&logoColor=white"/>
-    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/netlify-purple.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
-    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/vercel-blue.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/render-yellow.svg?style=for-the-badge&logo=render&logoColor=white"/>
-    <img alt="Badge" style="float: left; margin-right: 10px;" src="http://img.shields.io/badge/-java-yellow?style=for-the-badge&logo=java&logoColor=white"/>
-</a>
+## 🛠️ **Languages & Tools**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-lightgray?style=for-the-badge&logo=express&logoColor=black" />
+  <img src="https://img.shields.io/badge/-MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+---
+
+### 📌 **Quote of the Day**
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+### ✍️ **Author**
+
+**Mohit Rajak** – Passionate Developer & Tech Enthusiast.
+
 
