@@ -15,10 +15,9 @@
 
 ---
 
-## 🌐 **Portfolio & Profiles**
+## 🌐 **Portfolio**
 
-- 🔗 **Portfolio:** [My Portfolio](https://myportfolio-three-olive.vercel.app/)
-- 🏆 **GitHub:** [github.com/Mohit-Rajak](https://github.com/Mohit-Rajak)
+- 🏆 **Portfolio:** [My Portfolio](https://myportfolio-three-olive.vercel.app/) 
 
 ---
 
