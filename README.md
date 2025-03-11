@@ -17,7 +17,7 @@
 
 ## 🌐 **Portfolio & Profiles**
 
-- 🔗 **Portfolio:** [Mohit Rajak's Portfolio](https://my-personal-portfolio-wheat.vercel.app/)
+- 🔗 **Portfolio:** [My Portfolio](https://myportfolio-three-olive.vercel.app/)
 - 🏆 **GitHub:** [github.com/Mohit-Rajak](https://github.com/Mohit-Rajak)
 
 ---
