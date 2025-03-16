@@ -1,23 +1,29 @@
-<h1 align="center">Hello 👋, I'm Mohit Rajak</h1>
+<h1 align="center">🚀 Hey there! I'm <span style="color:#ff6600">Mohit Rajak</span> 👋</h1>
 <h3 align="center">MERN Stack Developer | Java & DSA Enthusiast</h3>
 
-<p align="center" style="margin: 20px 20; padding: 10px;">
-    <b>Visitor Count:</b>
-    <br>
+<p align="center">
+    <b>Visitor Count:</b><br>
     <img src="https://profile-counter.glitch.me/Mohit-Rajak/count.svg"/>
 </p>
 
 ---
 
-## 👀 **Professional Summary**
+## 🚀 **About Me**
 
-🚀 **Passionate Full-Stack Developer** with expertise in **MERN Stack** and **Java with DSA**. Skilled in designing and developing **efficient, scalable, and user-friendly** web applications. Proficient in **JavaScript, React.js, Node.js, MongoDB, and Express.js**, with hands-on experience in **database management (SQL/NoSQL)** and **version control (Git/GitHub)**. Enthusiastic about learning cutting-edge technologies and contributing to **open-source projects**.
+💻 Full-Stack Developer with a passion for building **scalable, high-performance web applications** using the **MERN stack**. Proficient in **JavaScript, React.js, Node.js, Express.js, and MongoDB**. Experienced in **Java & Data Structures and Algorithms (DSA)**. Always exploring new technologies and contributing to open-source projects.
+
+🔹 **Proficient in:** JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, Bootstrap, Tailwind CSS, Git, GitHub, Java.<br>
+🔹 **Currently Exploring:** React.js, Next.js, and Cloud Computing.<br>
+🔹 **Looking for:** Exciting opportunities in **Full-Stack Development & Software Engineering**.<br>
 
 ---
 
-## 🌐 **Portfolio**
+## 🌐 **Portfolio & Projects**
 
-- 🏆 **Portfolio:** [My Portfolio](https://myportfolio-three-olive.vercel.app/) 
+🔗 **Portfolio:** [My Portfolio](https://myportfolio-three-olive.vercel.app/)  
+📌 **Stock Sphere (MERN Stock Market App)** – *In Progress*  
+🏡 **Airbnb Clone (Full-Stack App)** – [Live Demo](https://airbnbwebsite-spzc.onrender.com/listings)   
+💬 **Chat App (MERN Stack App)** – [Live Demo](https://chat-frontend-zeta-ecru.vercel.app/signin)   
 
 ---
 
@@ -26,6 +32,7 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Mohit-Rajak&show_icons=true&theme=radical" width="400px" alt="GitHub Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-Rajak&theme=radical" width="400px" alt="GitHub Streak">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Rajak&layout=compact&theme=radical" width="400px" alt="Top Languages">
 </p>
 
 ---
@@ -49,7 +56,7 @@
 
 ---
 
-## 🛠️ **Languages & Tools**
+## 🛠️ **Tech Stack & Tools**
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -79,6 +86,5 @@
 
 ### ✍️ **Author**
 
-**Mohit Rajak** – Passionate Developer & Tech Enthusiast.
-
+**Mohit Rajak** – Passionate Developer | Lifelong Learner | Open-Source Enthusiast
 
