@@ -1,10 +1,7 @@
 <h1 align="center">🚀 Hey there! I'm <span style="color:#ff6600">Mohit Rajak</span> 👋</h1>
 <h3 align="center">MERN Stack Developer | Java & DSA Enthusiast</h3>
 
-<p align="center">
-    <b>Visitor Count:</b><br>
-    <img src="https://profile-counter.glitch.me/Mohit-Rajak/count.svg"/>
-</p>
+
 
 ---
 
@@ -87,4 +84,5 @@
 ### ✍️ **Author**
 
 **Mohit Rajak** – Passionate Developer | Lifelong Learner | Open-Source Enthusiast
+
 
