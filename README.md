@@ -17,7 +17,7 @@
 
 ## 🌐 **Projects**
 
-🏡 **E-Commerse Website (Full-Stack Application)** – [Live Demo](https://fashion-frontend-two.vercel.app) 
+🏡 **E-Commerse Website (Full-Stack Application)** – [Live Demo](https://fashion-frontend-two.vercel.app)<br>
 📌 **Airbnb Clone (Full-Stack App)** – [Live Demo](https://airbnbwebsite-spzc.onrender.com/listings)   
 💬 **Chat App (MERN Stack App)** – [Live Demo](https://chat-frontend-zeta-ecru.vercel.app/signin)   
 🔗 **Portfolio:** [My Portfolio](https://myportfolio-three-olive.vercel.app/)  
@@ -85,6 +85,7 @@
 ### ✍️ **Author**
 
 **Mohit Rajak** – Passionate Developer | Lifelong Learner | Open-Source Enthusiast
+
 
 
 
