@@ -15,12 +15,13 @@
 
 ---
 
-## 🌐 **Portfolio & Projects**
+## 🌐 **Projects**
 
-🔗 **Portfolio:** [My Portfolio](https://myportfolio-three-olive.vercel.app/)  
-📌 **Stock Sphere (MERN Stock Market App)** – *In Progress*  
+🏡 **E-Commerse Website (Full-Stack Application)** – [Live Demo](https://fashion-frontend-two.vercel.app) 
 🏡 **Airbnb Clone (Full-Stack App)** – [Live Demo](https://airbnbwebsite-spzc.onrender.com/listings)   
 💬 **Chat App (MERN Stack App)** – [Live Demo](https://chat-frontend-zeta-ecru.vercel.app/signin)   
+🔗 **Portfolio:** [My Portfolio](https://myportfolio-three-olive.vercel.app/)  
+📌 **Stock Sphere (MERN Stock Market App)** – *In repo*  
 
 ---
 
@@ -43,7 +44,7 @@
   <a href="mailto:contact.mohitrajak022004@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Email me" />
   </a>
-  <a href="https://www.instagram.com/mohitrajakofficial/">
+  <a href="https://www.instagram.com/mohitrajakofficial_">
     <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" height="30" title="Follow on Instagram" />
   </a>
   <a href="https://github.com/Mohit-Rajak">
@@ -84,5 +85,6 @@
 ### ✍️ **Author**
 
 **Mohit Rajak** – Passionate Developer | Lifelong Learner | Open-Source Enthusiast
+
 
 
