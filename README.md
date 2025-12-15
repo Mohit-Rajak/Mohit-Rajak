@@ -10,7 +10,7 @@
 💻 Full-Stack Developer with a passion for building **scalable, high-performance web applications** using the **MERN stack**. Proficient in **JavaScript, React.js, Node.js, Express.js, and MongoDB**. Experienced in **Java & Data Structures and Algorithms (DSA)**. Always exploring new technologies and contributing to open-source projects.
 
 🔹 **Proficient in:** JavaScript, React.js, Node.js, Express.js, MongoDB, SQL, Bootstrap, Tailwind CSS, Git, GitHub, Java.<br>
-🔹 **Currently Exploring:** React.js, Next.js, and Cloud Computing.<br>
+🔹 **Currently Exploring:** React.js, Nodejs, and Cloud Computing.<br>
 🔹 **Looking for:** Exciting opportunities in **Full-Stack Development & Software Engineering**.<br>
 
 ---
@@ -85,6 +85,7 @@
 ### ✍️ **Author**
 
 **Mohit Rajak** – Passionate Developer | Lifelong Learner | Open-Source Enthusiast
+
 
 
 
