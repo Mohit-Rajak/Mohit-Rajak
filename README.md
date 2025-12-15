@@ -28,7 +28,6 @@
 ## 📊 **GitHub Stats**
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mohit-Rajak&show_icons=true&theme=radical" width="400px" alt="GitHub Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-Rajak&theme=radical" width="400px" alt="GitHub Streak">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Rajak&layout=compact&theme=radical" width="400px" alt="Top Languages">
 </p>
@@ -85,6 +84,7 @@
 ### ✍️ **Author**
 
 **Mohit Rajak** – Passionate Developer | Lifelong Learner | Open-Source Enthusiast
+
 
 
 
