@@ -74,7 +74,8 @@
 
 ### ✍️ **Author**
 
-**Mohit Rajak** – Passionate Developer | Lifelong Learner | Open-Source Enthusiast
+**Mohit Rajak** – Passionate Developer | Lifelong Learner | Open-Source Enthusiast.
+
 
 
 
