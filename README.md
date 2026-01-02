@@ -15,13 +15,15 @@
 
 ---
 
-## 🌐 **Projects**
+## 🚀 Featured Projects
 
-🏡 **E-Commerse Website (Full-Stack Application)** – [Live Demo](https://fashion-frontend-two.vercel.app)<br>
-📌 **Airbnb Clone (Full-Stack App)** – [Live Demo](https://airbnbwebsite-spzc.onrender.com/listings)   
-💬 **Chat App (MERN Stack App)** – [Live Demo](https://chat-frontend-zeta-ecru.vercel.app/signin)   
-🔗 **Portfolio:** [My Portfolio](https://myportfolio-three-olive.vercel.app/)  
-📌 **Stock Sphere (MERN Stock Market App)** – *In repo*  
+| Project | Description | Live |
+|-------|------------|------|
+| 🛒 **E-Commerce App** | Full-stack MERN shopping platform | [Live](https://fashion-frontend-two.vercel.app) |
+| 🏡 **Airbnb Clone** | End-to-end booking application | [Live](https://airbnbwebsite-spzc.onrender.com/listings) |
+| 💬 **Chat App** | Real-time MERN chat application | [Live](https://chat-frontend-zeta-ecru.vercel.app/signin) |
+| 📈 **Stock Sphere** | MERN Stock Market App | In Repository |
+| 🌐 **Portfolio** | Personal Developer Portfolio | [Visit](https://myportfolio-three-olive.vercel.app/) |
 
 ---
 
@@ -36,9 +38,6 @@
   </a>
   <a href="https://www.instagram.com/mohitrajakofficial_">
     <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" height="30" title="Follow on Instagram" />
-  </a>
-  <a href="https://github.com/Mohit-Rajak">
-    <img src="https://img.shields.io/github/followers/Mohit-Rajak?label=GitHub&style=social" height="30" title="Follow on GitHub" />
   </a>
 </p>
 
@@ -66,6 +65,14 @@
 
 ---
 
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit-Rajak&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
 ### 📌 **Quote of the Day**
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
@@ -75,6 +82,7 @@
 ### ✍️ **Author**
 
 **Mohit Rajak** – Passionate Developer | Lifelong Learner | Open-Source Enthusiast.
+
 
 
 
