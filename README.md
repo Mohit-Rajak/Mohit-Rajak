@@ -21,7 +21,7 @@
 |-------|------------|------|
 | 🛒 **E-Commerce App** | Full-stack MERN shopping platform | [Live](https://fashion-frontend-two.vercel.app) |
 | 💬 **Chat App** | Real-time MERN chat application | [Live](https://chat-frontend-zeta-ecru.vercel.app/signin) |
-| 🌐 **Food App** | Online Food Delivery App (frontend) | [Live](https://food-app-omega-navy.vercel.app) |
+| 🏡 **Food App** | Online Food Delivery App (frontend) | [Live](https://food-app-omega-navy.vercel.app) |
 | 🌐 **Portfolio** | Personal Developer Portfolio | [Visit](https://myportfolio-three-olive.vercel.app/) |
 | 🏡 **Airbnb Clone** | End-to-end booking application | [Live](https://airbnbwebsite-spzc.onrender.com/listings) |
 | 📈 **Stock Sphere** | MERN Stock Market App | In Repository |
@@ -83,6 +83,7 @@
 ### ✍️ **Author**
 
 **Mohit Rajak** – Passionate Developer | Lifelong Learner | Open-Source Enthusiast.
+
 
 
 
