@@ -66,14 +66,6 @@
 
 ---
 
-## 📈 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit-Rajak&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 ### 📌 **Quote of the Day**
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
